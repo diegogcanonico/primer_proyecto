@@ -5,19 +5,20 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="estilos.css">
 </head>
- 
+
 <body>
- 
+
 <div class="container">
 	<header>
 		<h1>Programación en PHP y MySQL - Nivel Avanzado</h1>
-	
+
 
 	<nav>
 		<?php include("botonera.php"); ?>
 	</nav>
 	</header>
 	<section>
+		<h3>Hola Puto</h3>
 		<h2>Sitio para realizar las Evaluaciones del curso</h2>
 			<p>
 			PHP es un lenguaje open source (de código abierto) multiplataforma y libre que puede trabajar con la mayoría de bases de datos actuales (especialmente MySQL) y es compatible con todos los navegadores.
@@ -44,7 +45,7 @@
 	<footer>
 		<a href="https://site.elearning-total.com/courses/?com=lb">Programación en PHP y MySQL - Nivel Avanzado</a>
 	</footer>
- 
+
 </div>
 </body>
 </html>
