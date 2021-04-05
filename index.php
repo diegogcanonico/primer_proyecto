@@ -18,7 +18,6 @@
 	</nav>
 	</header>
 	<section>
-		<h3>Hola Puto</h3>
 		<h2>Sitio para realizar las Evaluaciones del curso</h2>
 			<p>
 			PHP es un lenguaje open source (de código abierto) multiplataforma y libre que puede trabajar con la mayoría de bases de datos actuales (especialmente MySQL) y es compatible con todos los navegadores.
